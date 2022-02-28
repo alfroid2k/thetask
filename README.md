@@ -19,4 +19,4 @@ I have added a quick unit test for the repo which just checks that the flow emit
 there are no UI tests as though I feel we can just add previews to the composable to test different ui states. I would however add espresso tests should we have a flow or something particular that we would like to test. 
 
 ### DI
-I have madu use of koin for 
+I have made use of koin for DI and used the sharedViewmodel to communicate between the fragment and activity
